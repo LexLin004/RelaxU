@@ -15,9 +15,7 @@ in your body leading to muscle strain and sub-health, which is pretty common now
 So what can we do? Study and exercises are inescapable, but a massager can stretch and relax your muscle for you.
 
 # Final Product
-![image](https://user-images.githubusercontent.com/102601885/181481010-d28b8b9a-a149-427b-8706-2db4baf93ada.png)
-![image](https://user-images.githubusercontent.com/102601885/181481028-7d4a8469-8344-4869-bb12-83e36e37c373.png)
-![image](https://user-images.githubusercontent.com/102601885/181481042-bf9b73d8-f633-4e46-9efc-54dd61f958a1.png)
+![image](https://user-images.githubusercontent.com/102601885/181486987-6d9ff8bb-a804-4e1b-8fcf-3ce8f6a2b387.png)
 
 # Circuit Design
 ![image](https://user-images.githubusercontent.com/102601885/181480991-824338b8-391b-4f8b-8a91-31e52ab21b71.png)
