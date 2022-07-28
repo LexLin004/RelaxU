@@ -24,10 +24,7 @@ So what can we do? Study and exercises are inescapable, but a massager can stret
 
 # App Design
 ## Introduction Pages
-![image](https://user-images.githubusercontent.com/102601885/181481119-03994e04-2a9c-4f4d-bca1-a4aa8580a945.png)
-![image](https://user-images.githubusercontent.com/102601885/181481128-52014c4a-fac8-444d-945e-6fbaff049fce.png)
-![image](https://user-images.githubusercontent.com/102601885/181481136-dbc975b8-ad20-4f2e-b14f-a851b5fd17d8.png)
-![image](https://user-images.githubusercontent.com/102601885/181481142-ad70e95a-0369-4e5e-8c97-6d0d7ae925bd.png)
+![image](https://user-images.githubusercontent.com/102601885/181486269-8877639a-1762-4036-8684-f86170861610.png)
 
 ## Bluetooth choose
 ![image](https://user-images.githubusercontent.com/102601885/181481167-8f926f3e-d2f2-48ff-afdc-e54b63d9efc6.png)
