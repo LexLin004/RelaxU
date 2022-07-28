@@ -33,14 +33,7 @@ So what can we do? Study and exercises are inescapable, but a massager can stret
 ![image](https://user-images.githubusercontent.com/102601885/181481175-60e12692-698d-4b96-99d5-6c7736177819.png)
 
 ## Mode Page (Select mode and adjust the strength level)
-### Arm
-![image](https://user-images.githubusercontent.com/102601885/181481356-d81b4d0c-904a-426f-86b7-3c578a48c3ed.png)
-
-### Leg
-![image](https://user-images.githubusercontent.com/102601885/181481385-3c24f484-065f-44b7-b41d-72458efc3cdf.png)
-
-### Waist
-![image](https://user-images.githubusercontent.com/102601885/181481421-643d5911-a1a7-4d0d-a856-7b8fd5e34002.png)
+![image](https://user-images.githubusercontent.com/102601885/181486433-3b81198d-e3b3-4c29-ac0e-ca170fdd79e4.png)
 
 ## Info Page (gives brief intro of what type of massage we are trying to offer and some tips.)
 ![image](https://user-images.githubusercontent.com/102601885/181481688-228a0f7a-5813-49d5-972f-a74f524a4282.png)
